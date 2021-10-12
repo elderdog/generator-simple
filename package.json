@@ -1,0 +1,20 @@
+{
+  "name": "generator-simple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.0.0",
+    "yeoman-generator": "^5.4.2",
+    "yosay": "^2.0.2"
+  }
+}
